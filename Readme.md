@@ -20,7 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,javascript,html,css,bootstrap,git,github,vscode,linux,ps,notion,"/><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,javascript,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,linux,ps,notion"/><br>
 </div>
 
 <br/>
